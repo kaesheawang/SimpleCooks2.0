@@ -1,0 +1,79 @@
+I want to build a modern mobile-first recipe management app that acts as a digital cookbook powered by AI.
+
+The app should allow users to paste:
+
+Instagram Reel links
+TikTok links
+YouTube Shorts links
+recipe website URLs
+
+The app should automatically extract and structure recipe information from the content, including:
+
+recipe title
+cover image/thumbnail from the reel, TikTok, or website
+ingredients list
+step-by-step cooking instructions
+cooking time
+servings
+nutritional information (estimated if unavailable)
+creator/source attribution with original link
+
+Core features:
+
+AI Recipe Extraction
+Use AI or scraping to analyze captions, subtitles, spoken dialogue, on-screen text, and website content
+Convert unstructured content into a clean recipe format
+Handle messy/incomplete recipes intelligently
+Digital Cookbook
+Save recipes into collections/categories
+Search and filter recipes
+Favorite/bookmark recipes
+Tag recipes (healthy, dessert, high protein, quick meals, etc.)
+Smart Grocery Cart
+Users can tick ingredients they already have
+Missing ingredients can be added into a grocery shopping list/cart
+Combine ingredients across multiple recipes
+Optional quantity scaling
+Cooking Log & Notes
+Users can mark recipes as “Made”
+Store cooking history and timestamps
+Add personal notes/modifications/photos
+Rate recipes
+Nutrition Features
+Estimate calories/macros using APIs or AI
+Show protein/carbs/fats
+Optional dietary labels (vegan, gluten-free, halal, etc.)
+UI/UX
+Clean aesthetic similar to Pinterest + Notion + Paprika
+Mobile-first responsive design
+Beautiful recipe cards with large cover photos
+Smooth animations and modern onboarding
+Technical Requirements
+Recommend the best tech stack for rapid MVP development
+Include frontend, backend, database, authentication, storage, and AI tooling
+Suggest APIs/services for:
+TikTok/Instagram/web extraction
+OCR
+speech-to-text
+nutrition analysis
+Include scalable architecture for future growth
+Advanced Features (Future)
+AI meal planning
+AI recipe recommendations based on ingredients at home
+Barcode grocery scanning
+Social sharing/community features
+Voice-guided cooking mode
+
+Please help me:
+
+design the app architecture
+define database schema
+create user flows
+suggest the best tech stack
+generate an MVP roadmap
+identify the hardest engineering challenges
+propose monetization ideas
+create wireframe ideas/screens
+generate starter code for the MVP
+
+The app should feel polished, addictive, and extremely easy to use for Gen Z users who save lots of food content online but never organize or cook it.
